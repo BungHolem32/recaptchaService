@@ -1,0 +1,12 @@
+{
+    "name": "ilanv/recaptcha-service",
+    "authors": [
+        {
+            "name": "ilanv",
+            "email": "ilanv@rboptions.com"
+        }
+    ],
+    "require": {
+        "google/recaptcha": "^1.1"
+    }
+}
