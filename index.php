@@ -12,8 +12,6 @@ $recaptchaService = require __DIR__ . '/src/recaptchaService.php';
 
 
 $siteKey = $recaptchaService->getSiteKey();
-$secret
-
 
 ?>
 
